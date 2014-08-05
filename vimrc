@@ -7,6 +7,8 @@ au BufNewFile,BufRead *.thor set filetype=ruby
 au BufNewFile,BufRead *.make set filetype=ruby
 au BufNewFile,BufRead *.sass set filetype=css
 au BufNewFile,BufRead *.less set filetype=css
+au BufRead,BufNewFile *.go set filetype=go 
+au BufRead,BufNewFile *.gold set filetype=slim
 
 
 "Indent and spacing settings

@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/tyrel/code/ruby/rails/if/luckey'
-let g:netrw_dirhist_2='/home/tyrel/code/ruby/rails/if/crawler/.git'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tyrel/Code/ruby/rails/clients/hemptemps'
+let g:netrw_dirhist_2='/home/tyrel'
+let g:netrw_dirhist_3='/etc/php5/fpm'
+let g:netrw_dirhist_4='/etc/php5'
+let g:netrw_dirhist_5='/etc'
+let g:netrw_dirhist_6='/home/tyrel/Code/ruby/rails/personal/mom'
